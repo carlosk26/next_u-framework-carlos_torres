@@ -1,0 +1,18 @@
+.logo-img{
+  width: 30%;
+}
+
+img {
+  max-height: 250px;
+  display:block;
+margin:auto;
+}
+
+
+
+.countainer{
+  background-image: url("https://img.wallpapersafari.com/desktop/1280/1024/94/64/ajnKcY.jpg");
+  width: 100%;
+  height: 750%;
+  position: absolute;
+}
